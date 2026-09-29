@@ -1,0 +1,27 @@
+C&L — SITE ESTÁTICO GRATUITO
+
+PRÉ-VISUALIZAR
+- Extraia o ZIP para uma pasta.
+- Abra index.html num navegador. Para evitar restrições de alguns navegadores, use extensão Live Server no VS Code ou publique no GitHub Pages.
+
+EDITAR PRODUTOS
+- Abra products.js num editor de texto.
+- Edite os objetos em CL_PRODUCTS: type (SPC/EPC), name, description, image.
+- Para WhatsApp, coloque o número com indicativo internacional, só algarismos, em CL_CONFIG.whatsapp (exemplo fictício: 351912345678).
+- Guarde o ficheiro. A edição na caixa da página é apenas pré-visualização local, não altera o ficheiro nem o site publicado.
+
+PUBLICAR GRATUITAMENTE NO GITHUB PAGES
+1. Crie uma conta em https://github.com
+2. Crie um repositório público chamado cl-materiais (ou cl-pavimentos).
+3. Carregue index.html, products.js e a pasta assets (logo-cl.png).
+4. No repositório: Settings > Pages.
+5. Em Build and deployment, escolha Deploy from a branch; branch main e pasta /(root); Save.
+6. Aguarde a publicação. O endereço será semelhante a https://SEU_UTILIZADOR.github.io/cl-materiais/
+7. Para atualizar: edite products.js ou index.html no GitHub e faça Commit changes. O Pages volta a publicar.
+
+LIMITAÇÕES IMPORTANTES
+- O alojamento GitHub Pages é gratuito para sites estáticos públicos, mas não inclui WordPress nem painel CMS visual.
+- Pode editar ficheiros pelo editor web do GitHub; o editor de pré-visualização dentro da página não sincroniza nem publica alterações.
+- Imagens externas requerem internet e podem mudar/disponibilidade externa.
+- O domínio próprio .pt é opcional e normalmente pago.
+- Antes de publicar comercialmente, substitua textos demonstrativos, confirme direitos de utilização das imagens, acrescente contactos reais, política de privacidade/cookies e informação legal aplicável.
