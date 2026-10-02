@@ -8,7 +8,7 @@ window.CL_PRODUCTS = [
  {type:"SPC",
   name:"Pavimento SPC Carvalho Creme",
   description:"Pavimento da coleção Carvalho Creme. Consulte-nos para informações e orçamento.",
-  image:"https://images.unsplash.com/photo-160067678939e-8ca6c2511c8?auto=format&fit=crop&w=900&q=80"},
+  image:"assets/carvalho-creme.png"},
 {type:"SPC",
   name:"Pavimento SPC Carvalho Mel",
   description:"Pavimento da coleção Carvalho Mel. Consulte-nos para informações e orçamento.",
