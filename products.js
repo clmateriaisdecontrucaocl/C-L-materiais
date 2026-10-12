@@ -16,7 +16,7 @@ window.CL_PRODUCTS = [
 {type:"SPC",
   name:"Pavimento SPC Carvalho Branco",
   description:"Pavimento da coleção Carvalho Branco. Consulte-nos para informações e orçamento.",
-  image:"https://images.unsplash.com/photo-160067678939e-8ca6c2511c8?auto=format&fit=crop&w=900&q=80"},
+  image:"/C-L-materiais/assets/carvalho-branco.png"},
 {type:"WPC",
   name:"Deck Compósito Coextrudido",
   description:"Solução de deck compósito para espaços exteriores. Consulte-nos para informações e orçamento.",
