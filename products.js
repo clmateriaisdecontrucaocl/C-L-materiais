@@ -6,8 +6,6 @@ window.CL_PRODUCTS = [
   name:"Pavimento SPC Carvalho Natural",
   description:"Referência de demonstração. Substitua por descrição e especificações reais.",
   image:"/C-L-materiais/assets/carvalho-natural.png"},
- {type:"EPC",name:"EPC Carvalho Claro",description:"Referência de demonstração. Substitua por descrição e especificações reais.",image:"https://images.unsplash.com/photo-1600566753086-00f18fb6b3ea?auto=format&fit=crop&w=900&q=80"},
- {type:"SPC",name:"SPC Carvalho Areia",description:"Referência de demonstração. Preço sob consulta.",image:"https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?auto=format&fit=crop&w=900&q=80"},
  {type:"SPC",
   name:"Pavimento SPC Carvalho Creme",
   description:"Pavimento da coleção Carvalho Creme. Consulte-nos para informações e orçamento.",
