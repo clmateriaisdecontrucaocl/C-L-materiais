@@ -43,5 +43,5 @@ image:"/C-L-materiais/assets/carvalho-fumado.png"},
 {type:"WPC",
   name:"Revestimento de Parede WPC Coextrudido",
   description:"Revestimento de parede WPC coextrudido. Consulte-nos para informações e orçamento.",
-  image:"/C-L-materiais/assets/revestimento-parede-wpc.png"}
+  image:"/C-L-materiais/assets/revestimento-parede-wpc.png"},
 ];
